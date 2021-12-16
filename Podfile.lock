@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.4.4)
+  - AudioPlayerSwift (2.0.0)
+  - SSCustomTabbar (2.0.6)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.4)
+  - AudioPlayerSwift
+  - SSCustomTabbar
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AudioPlayerSwift
+    - SSCustomTabbar
+
+SPEC CHECKSUMS:
+  Alamofire: f3b09a368f1582ab751b3fff5460276e0d2cf5c9
+  AudioPlayerSwift: 26d1c95f177f5bd195be482a41538d7ab8d04dd9
+  SSCustomTabbar: a52533e429bd40f52ce8d7ecb801f3521fbd56a0
+
+PODFILE CHECKSUM: 5f6511599eef1e30b203b0fd0773759746e5fb1d
+
+COCOAPODS: 1.11.2
